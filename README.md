@@ -41,7 +41,7 @@ I'm a Web Developer Team Lead, Data Scientist, and Machine Learning Engineer wit
 ### 🤝 I’m Looking to Collaborate On
 - [x] Open Source Projects: Contributing to Django or Vue.js projects, especially those that involve full-stack web applications or developer tooling.
 - [x] Machine Learning Projects: Collaborating on data-driven projects, especially in predictive modeling, natural language processing, or computer vision.
-- [x]Cloud Solutions: Building and deploying scalable machine learning or web applications on AWS and Azure, with a focus on automation, infrastructure, and optimization.
+- [x] Cloud Solutions: Building and deploying scalable machine learning or web applications on AWS and Azure, with a focus on automation, infrastructure, and optimization.
 - [x] Tech Communities: Engaging with developers to share knowledge, contribute to blogs or podcasts, and support initiatives that promote diversity and inclusion in tech.
       
 ### Fun Fact 😄
