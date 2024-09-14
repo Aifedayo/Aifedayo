@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋 I'm Akeem Ifedayo Lagundoye!
+I'm a Web Developer Team Lead, Data Scientist, and Machine Learning Engineer with expertise in full-stack development and cloud technologies. Passionate about building robust applications, and predictive models, and leading cross-functional teams to deliver impactful projects.
+
+### 🚀 Tech Stack & Expertise
+- [x] **Backend:** Django, Flask, FastAPI
+- [x] **Frontend:** Vue.js, JavaScript (ES6+), HTML5, CSS3
+- [x] **Machine Learning & Data Science:** Python (Pandas, Scikit-learn, TensorFlow), Data Analysis, Predictive Modeling, Deep Learning
+- [x] **Cloud Services:** AWS (EC2, S3, Lambda, RDS), Azure (App Services, Machine Learning, SQL Databases)
+- [x] **DevOps & Containers:** Docker, Nginx, Gunicorn, CI/CD, GitHub Actions
+- [x] **Databases:** PostgreSQL, MySQL, MongoDB
+- [x] **Version Control:** Git, GitHub, Gitlab, BitBucket
+      
+### 🌱 What I'm currently working on
+- [x] Leading a team of developers to build scalable web applications using Django and Vue.js.
+- [x] Developing machine learning models for predictive analytics in various domains.
+- [x] Optimizing cloud infrastructures and deploying ML models on AWS and Azure.
+
+### 💡 Projects & Contributions
+- [x] Used Car Price Prediction Model: Developed a machine learning pipeline using Python and deployed it on AWS Elastic Beanstalk.
+- [x] Web App Dashboard: A Vue.js-based web dashboard integrated with a Django backend, hosted on Azure.
+- [x] Data Ingestion Script: Automated data ingestion pipeline that processes large datasets efficiently.
+- [x] Kanban Board for Personal Goals: A web-based Kanban board built with Vue.js and Django for tracking personal goals and tasks. Features drag-and-drop functionality, user authentication, and goal prioritization.
+- [x] Recruitment Page: Created a recruitment portal with job listings, applicant tracking, and automated email notifications. Built using Django and integrated with third-party services for job postings.
+
+### 🤝 I’m Looking to Collaborate On
+- [x] Open Source Projects: Contributing to Django or Vue.js projects, especially those that involve full-stack web applications or developer tooling.
+- [x] Machine Learning Projects: Collaborating on data-driven projects, especially in predictive modeling, natural language processing, or computer vision.
+- [x]Cloud Solutions: Building and deploying scalable machine learning or web applications on AWS and Azure, with a focus on automation, infrastructure, and optimization.
+- [x] Tech Communities: Engaging with developers to share knowledge, contribute to blogs or podcasts, and support initiatives that promote diversity and inclusion in tech.
+      
+### Fun Fact 😄
+When I'm not coding or training ML models, you can find me exploring new places with my family, or playing strategy board games. Always up for a challenge, both in and out of the tech world!
+
+### 🔗 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/akeem-lagundoye-6388bb128/)
+- [Twitter](https://www.x.com/engrAILag)
+
