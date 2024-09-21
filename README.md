@@ -19,7 +19,7 @@ I'm a Web Developer Team Lead, Data Scientist, and Machine Learning Engineer wit
 
 ### 🚀 Tech Stack & Expertise
 - [x] **Backend:** Django, Flask, FastAPI
-- [x] **Frontend:** Vue.js, JavaScript (ES6+), HTML5, CSS3
+- [x] **Frontend:** Vue.js, JavaScript (ES6+), HTML5, CSS3, Streamlit
 - [x] **Machine Learning & Data Science:** Python (Pandas, Scikit-learn, TensorFlow), Data Analysis, Predictive Modeling, Deep Learning
 - [x] **Cloud Services:** AWS (EC2, S3, Lambda, RDS), Azure (App Services, Machine Learning, SQL Databases)
 - [x] **DevOps & Containers:** Docker, Nginx, Gunicorn, CI/CD, GitHub Actions
