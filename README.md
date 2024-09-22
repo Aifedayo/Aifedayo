@@ -18,9 +18,9 @@ Hi there 👋 I'm Akeem Ifedayo Lagundoye!
 I'm a Web Developer Team Lead, Data Scientist, and Machine Learning Engineer with expertise in full-stack development and cloud technologies. Passionate about building robust applications, and predictive models, and leading cross-functional teams to deliver impactful projects.
 
 ### 🚀 Tech Stack & Expertise
-- [x] **Backend:** Django, Flask, FastAPI, Streamlit
+- [x] **Backend:** Django, Flask, FastAPI
 - [x] **Frontend:** Vue.js, JavaScript (ES6+), HTML5, CSS3
-- [x] **Machine Learning & Data Science:** Python (Pandas, Scikit-learn, TensorFlow), Data Analysis, Predictive Modeling, Deep Learning
+- [x] **Machine Learning & Data Science:** Python (Pandas, Scikit-learn, TensorFlow, Streamlit), Data Analysis, Predictive Modeling, Deep Learning
 - [x] **Cloud Services:** AWS (EC2, S3, Lambda, RDS), Azure (App Services, Machine Learning, SQL Databases)
 - [x] **DevOps & Containers:** Docker, Nginx, Gunicorn, CI/CD, GitHub Actions
 - [x] **Databases:** PostgreSQL, MySQL, MongoDB
