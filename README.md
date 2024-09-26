@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋 I'm Akeem Ifedayo Lagundoye!
+I'm Akeem Ifedayo Lagundoye!
 I'm a Web Developer Team Lead, Data Scientist, and Machine Learning Engineer with expertise in full-stack development and cloud technologies. Passionate about building robust applications, and predictive models, and leading cross-functional teams to deliver impactful projects.
 
 ### 🚀 Tech Stack & Expertise
