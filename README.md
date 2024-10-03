@@ -53,7 +53,6 @@ Scrum, Agile Development, Team Leadership, JIRA, Slack, Notion, GitHub, GitLab, 
 ### 😆 Fun Fact
 When I'm not coding or training ML models, you can find me exploring new places with my family, or playing strategy board games. Always up for a challenge, both in and out of the tech world!
 
-
 ### 🔗 Let's Connect!
 
   <a href="https://wa.me/2349050562160">
