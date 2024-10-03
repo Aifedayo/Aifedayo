@@ -29,6 +29,8 @@ I'm a Web Developer Team Lead, Data Scientist, and Machine Learning Engineer wit
 - [x] **Databases:** PostgreSQL, MySQL, MongoDB
 - [x] **Version Control:** Git, GitHub, Gitlab, BitBucket -->
 
+### ⭐ Plus
+Scrum, Agile Development, Team Leadership, JIRA, Slack, Notion, GitHub, GitLab, CI/CD, GitHub Actions, MSSQL, SEO, OpenAI, Figma, VS Code, Postman, Amazon Web Services (AWS), Azure, Docker, SaaS Start-up & Scale-up Experiences, Unit Testing (Jest, Pytest)
    
 ### 🌱 What I'm currently working on
 - [x] Leading a team of developers to build scalable web applications using Django and Vue.js.
